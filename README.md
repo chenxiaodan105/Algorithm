@@ -1,2 +1,2 @@
 # Algorithm
-algorithm practice for CS6212
+algorithm thoughts and practice for CS6212 and leetcode 
