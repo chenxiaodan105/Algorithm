@@ -5,7 +5,7 @@
 
 [2. Imbalance Data Handling](#imbalance-data-handling)
 
-[3. Negation Handling](#3.-Negation-Handling)
+[3. Negation Handling](#3-Negation-Handling)
 
 [4. Methods](#methods)
 
