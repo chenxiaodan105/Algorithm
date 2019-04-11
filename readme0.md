@@ -31,6 +31,7 @@
 
 ## 4. Methods
 * stance detection
+
 | method |  F1 score(majority) | F1 score(minority) |
 | ----------- | ----------- | ----------- | 
 | bow + svm |  |
