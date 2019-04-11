@@ -1,14 +1,22 @@
 # Xiaodan's Directory
 
 ## Contents
-[1. text preprocessing](#text-preprocessing)
+[1. Text Preprocessing](#text-preprocessing)
 
-[2. imbalance data handling](#imbalance-data-handling)
+[2. Imbalance Data Handling](#imbalance-data-handling)
 
-[3. negation handling](#negation-handling)
+[3. Negation Handling](#negation-handling)
 
-[4. methods](#methods)
+[4. Methods](#methods)
 
-[5. stance detection](#stance-detection)
+[5. Stance Detection](#stance-detection)
 
-[6. stance classification](#stance-classification)
+[6. Stance Classification](#stance-classification)
+
+## Text Preprocessing
+* tokenization
+* remove stopwords
+* remove special characters
+* stemming and lemmatization
+
+
