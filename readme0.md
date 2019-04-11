@@ -5,7 +5,7 @@
 
 [2. Imbalance Data Handling](#imbalance-data-handling)
 
-[3. Negation Handling](#3-Negation-Handling)
+[3. Negation Handling](#3.-Negation-Handling)
 
 [4. Methods](#methods)
 
@@ -23,7 +23,7 @@
 * balanced ensemble method using SVM or decision tree as base model
 * [reference](https://imbalanced-learn.org/en/stable/ensemble.html)
 
-## Negation Handling
+## 3. Negation Handling
 * for a specific speech, parse the key sentence using spacy
 * find both the scope and the key word in the sentence
 * within the scope, count the number of the negation words, if it's even, it's not a negation, if it's odd, it's a negation
