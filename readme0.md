@@ -5,13 +5,12 @@
 
 [2. Imbalance Data Handling](#imbalance-data-handling)
 
-[3. Negation Handling](#negation-handling)
+[3. Negation Handling](#3. Negation-Handling)
 
 [4. Methods](#methods)
 
-[5. Stance Detection](#stance-detection)
+[5. Grid Search](#Grid-Search)
 
-[6. Stance Classification](#stance-classification)
 
 ## 1. Text Preprocessing
 * tokenization
