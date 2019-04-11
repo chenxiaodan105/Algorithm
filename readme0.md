@@ -22,12 +22,19 @@
 ## 2. Imbalance Data Handling
 * smote 
 * balanced ensemble method using SVM or decision tree as base model
+* [reference](https://imbalanced-learn.org/en/stable/ensemble.html)
 
 ## 3. Negation Handling
 * for a specific speech, parse the key sentence using spacy
-* count the number of the negation words, if it's even, it's not a negation, if it's odd, it's a negation
+* find both the scope and the key word in the sentence
+* within the scope, count the number of the negation words, if it's even, it's not a negation, if it's odd, it's a negation
 
 ## 4. Methods
+| method | F1 score(majority) | F1 score(minority) |
+| ----------- | ----------- | ----------- |
+| Header | Title |
+| Paragraph | Text |
+
 
 
 
