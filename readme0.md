@@ -30,10 +30,16 @@
 * within the scope, count the number of the negation words, if it's even, it's not a negation, if it's odd, it's a negation
 
 ## 4. Methods
-| method | F1 score(majority) | F1 score(minority) |
-| ----------- | ----------- | ----------- |
-| Header | Title |
-| Paragraph | Text |
+* stance detection
+| method |  F1 score(majority) | F1 score(minority) |
+| ----------- | ----------- | ----------- | 
+| bow + svm |  |
+| tfidf + svm | |
+| bow + random forest | |
+| tfidf + random forest | |
+| bow + BalancedBaggingClassifier | |
+| tfidf + BalancedBaggingClassifier | |
+| word2vec + lstm | |
 
 
 
