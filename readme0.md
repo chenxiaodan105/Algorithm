@@ -1,14 +1,14 @@
 # Xiaodan's Directory
 
 ## Contents
-[text preprocessing](#text-preprocessing)
+[1. text preprocessing](#text-preprocessing)
 
-[imbalance data handling](#imbalance-data-handling)
+[2. imbalance data handling](#imbalance-data-handling)
 
-[negation handling](#negation-handling)
+[3. negation handling](#negation-handling)
 
-[methods](#methods)
+[4. methods](#methods)
 
-[stance detection](#stance-detection)
+[5. stance detection](#stance-detection)
 
-[stance classification](#stance-classification)
+[6. stance classification](#stance-classification)
